@@ -1,8 +1,8 @@
 const {Query, User} = AV;
 AV.init({
-  appId: "sJRGq737fndYJTHlHPaQw2wh-gzGzoHsz",
-  appKey: "lgxMB9daFH1xnU3a1xFpa7jy",
-  serverURL: "https://sjrgq737.lc-cn-n1-shared.com"
+  appId: "ooCnWetmXp1sCcUrSqKlsP5p-gzGzoHsz",
+  appKey: "F5Kr1wEt6Jd5qcW5TlWrhpiT",
+  serverURL: "https://oocnwetm.lc-cn-n1-shared.com"
 });
 
 new Vue({
